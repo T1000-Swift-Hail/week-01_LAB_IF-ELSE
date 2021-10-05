@@ -1,6 +1,6 @@
 # week-01_LAB_IF-ELSE
 
-## Using your Xcode IDE , create a new playground "conditionals" , and follow the steps:
+## Using your Xcode IDE , create a new playground "" , and follow the steps:
 
 - Create a  constant, name it: colorBlue = "Blue"
 - Create a second constant, name it: colorRed = "Red"
