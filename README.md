@@ -1,4 +1,4 @@
-# week-01_LAB_IF-ELSE
+done reading # week-01_LAB_IF-ELSE
 
 ## Using your Xcode IDE , create a new playground "conditionals" , and follow the steps:
 
