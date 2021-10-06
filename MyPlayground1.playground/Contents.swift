@@ -1,5 +1,4 @@
 import UIKit
-
 let colorBlue = "Blue"
 let colorRed = "Red"
 let colorPicked = "Red"
@@ -13,6 +12,6 @@ if (colorPicked == colorBlue) {
 
 else {
     print ("color piked is not known")
-    
+
 }
 
